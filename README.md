@@ -1,5 +1,6 @@
-# Python-work
-Some Python work done at school or for personal exploration
+# Elementary Python Projects
+These are the projects done in Python when I was in Year 1. Most of the projects consist only single file with multiple functions. 
+They all achieve different results as outlined in the introduction for each project.
 
 ## ✅ FOC Project 1 Biodiversity
 
@@ -13,13 +14,3 @@ In this project, you will implement a program that plays a game called “Comp10
 
 We will play Comp10001-huxxy with two standard packs of 52 cards. Each card has a “suit” (Spades, Clubs, Hearts, Diamonds) as well as a “value” (numbers 2 to 10, as well as Jack, Queen, King and Ace). For the purposes of this game, Aces are considered to have value 1, Jacks 11, Queens 12, and Kings 13. The game makes strong use of the notion of the “colour” of a card, where Spades and Clubs are black, and Hearts and Diamonds are red. We will refer to the cards by way of a two-character string, made up of the value ('A234567890JQK', where 'A' refers to an Ace, '0' a 10, 'J' a Jack, 'Q' a Queen, and 'K' a King) and suit ('SHDC',
 indicating Spades, Hearts, Diamonds, and Clubs, respectively). For example, '0C' is the 10 of Clubs, and 'AS' is the Ace of Spades.
-
-## 🛠 EODP Project 1 Amazon Reviews Sentiment Exploration 
-
-**Being graded in school, unable to release the code yet** 
-
-Websites such as Amazon contain large numbers of product reviews.  This presents a rich source of information that we can use to understand more about these products, as well as how people communicate positive and negative sentiments more generally.
-
-In this assignment, you will be working on a dataset comprising reviews of more than 1000 products.
-
-Using this dataset, you will have an opportunity to learn how to identify positive and negative sentiments by analysing the linguistic patterns in the reviews.
