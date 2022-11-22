@@ -1,5 +1,6 @@
 # Elementary Python Projects
-These are the projects done in Python when I was in Year 1. Most of the projects consist only single file with multiple functions. 
+These are the projects done in Python when I was in my first year of university. 
+Most of the projects consist only single file with multiple functions. 
 They all achieve different results as outlined in the introduction for each project.
 
 ## ✅ FOC Project 1 Biodiversity
